@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm Md. Tariquzzaman 👋</h1>
 
-<p align="center">
-  <img src="https://tariquzzamanf.github.io/images/tariq.jpg" width="130" style="border-radius: 50%;" alt="Tariquzzaman">
-</p>
 
 <p align="center">
   <b>Junior Lecturer · NLP Researcher · Islamic University of Technology, Bangladesh</b>
@@ -53,8 +50,6 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
