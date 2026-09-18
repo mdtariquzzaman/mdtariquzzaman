@@ -1,64 +1,28 @@
-<h1 align="center">Hi, I'm Md. Tariquzzaman 👋</h1>
+# Md. Tariquzzaman
 
+Junior Lecturer in Computer Science & Engineering at the [Islamic University of Technology](https://www.iutoic-dhaka.edu/) · Gazipur, Bangladesh
 
-<p align="center">
-  <b>Junior Lecturer · NLP Researcher · Islamic University of Technology, Bangladesh</b>
-</p>
+[Website](https://tariquzzamanf.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=LWB_NzwAAAAJ) · [CV](https://tariquzzamanf.github.io/files/cv/tariq.pdf) · [LinkedIn](https://www.linkedin.com/in/tariquzzamanf/) · [Email](mailto:tariquzzaman@iut-dhaka.edu)
 
-<p align="center">
-  I work on low-resource NLP for Bangla, harmful content detection, sign language instruction generation, and LLM bias evaluation.
-</p>
+My work spans low-resource Bangla language processing, harmful content and misinformation detection, sign language instruction generation, and benchmarking scenario-induced bias in large language models. My open releases include informal Bangla FastText embeddings, the BdSLIG sign language dataset, and the BDA augmentation framework.
 
----
+I am a member of the [Systems and Software Lab](https://cse.iutoic-dhaka.edu/ssl), where I pursue graduate research under [Hasan Mahmud](https://cse.iutoic-dhaka.edu/profile/hasan/education). My undergraduate thesis was supervised by [Mohsinul Kabir](https://cse.iutoic-dhaka.edu/profile/mohsinul/education).
 
-<p align="center">
-  <a href="https://tariquzzamanf.github.io">
-    <img src="https://img.shields.io/badge/Website-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://scholar.google.com/citations?hl=en&user=LWB_NzwAAAAJ">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tariquzzamanf/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/tariquzzamanf">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://x.com/tariquzzamanf">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="mailto:tariquzzaman@iut-dhaka.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+## Research and open resources
 
----
+| Work | Focus | Links |
+| --- | --- | --- |
+| **SPIP & BdSLIG** | Sign Parameter Informed Prompting and a Bangla Sign Language instruction generation dataset | [Code](https://github.com/tariquzzamanf/SPIP) · [Dataset](https://huggingface.co/datasets/aplycaebous/BdSLIG) · [Paper](https://openreview.net/forum?id=KkVMBkjbra) |
+| **VITD** | Informal Bangla FastText embeddings and violence-inciting text detection | [Code](https://github.com/tariquzzamanf/VITD) · [Paper](https://aclanthology.org/2023.banglalp-1.26/) |
+| **BDA** | Bangla text data augmentation | [Preprint](https://arxiv.org/abs/2412.08753) |
+| **MFMD-Scen** | Benchmarking scenario-induced bias in multilingual financial misinformation detection | [Paper](https://arxiv.org/abs/2601.05403) |
 
-## 🔬 Research Interests
+The VITD work received the **Best Shared Task Paper Award** at BLP @ EMNLP 2023. The SPIP paper appeared at CV4A11y @ ICCV 2025. *Same Claim, Different Judgment*, the MFMD-Scen paper, is **accepted to Findings of ACL 2026**. BDA is a **preprint**.
 
-- 🌏 **Low-resource NLP** — Bangla and underrepresented languages
-- 🛡️ **Harmful content & misinformation detection**
-- 🤟 **Accessibility technology** — sign language instruction generation
-- 🧠 **LLM evaluation** — multilingual bias, zero-shot benchmarking
+Browse my [research](https://tariquzzamanf.github.io/research.html) and [full publication record](https://tariquzzamanf.github.io/publications.html).
 
----
+## Teaching and collaboration
 
-## 🛠️ Tech Stack
+I teach programming, databases, and software engineering, and supervise software projects at IUT. My [CV](https://tariquzzamanf.github.io/cv.html#teaching) lists courses and academic terms.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tariquzzamanf&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tariquzzamanf&layout=compact&hide_border=true&theme=default" height="150"/>
-</p>
+I’m glad to hear from people working on low-resource languages, accessibility, and multilingual evaluation. Reach me at [tariquzzaman@iut-dhaka.edu](mailto:tariquzzaman@iut-dhaka.edu).
