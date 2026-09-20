@@ -1,28 +1,35 @@
+<div align="center">
+
 # Md. Tariquzzaman
 
-Junior Lecturer in Computer Science & Engineering at the [Islamic University of Technology](https://www.iutoic-dhaka.edu/) · Gazipur, Bangladesh
+<strong>Junior Lecturer</strong> · Computer Science &amp; Engineering<br>
+<a href="https://www.iutoic-dhaka.edu/">Islamic University of Technology</a> · Gazipur, Bangladesh
 
-[Website](https://tariquzzamanf.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=LWB_NzwAAAAJ) · [CV](https://tariquzzamanf.github.io/files/cv/tariq.pdf) · [LinkedIn](https://www.linkedin.com/in/tariquzzamanf/) · [Email](mailto:tariquzzaman@iut-dhaka.edu)
+[![Website](https://img.shields.io/badge/mdtariquzzaman.github.io-425b46?style=flat-square&logo=githubpages&logoColor=white)](https://mdtariquzzaman.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-425b46?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=LWB_NzwAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-425b46?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-3322-8741)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-425b46?style=flat-square)](https://www.linkedin.com/in/md-tariquzzaman/)
+[![Email](https://img.shields.io/badge/%E2%9C%89_Email-425b46?style=flat-square)](mailto:tariquzzaman@iut-dhaka.edu)
 
-My work spans low-resource Bangla language processing, harmful content and misinformation detection, sign language instruction generation, and benchmarking scenario-induced bias in large language models. My open releases include informal Bangla FastText embeddings, the BdSLIG sign language dataset, and the BDA augmentation framework.
+</div>
 
-I am a member of the [Systems and Software Lab](https://cse.iutoic-dhaka.edu/ssl), where I pursue graduate research under [Hasan Mahmud](https://cse.iutoic-dhaka.edu/profile/hasan/education). My undergraduate thesis was supervised by [Mohsinul Kabir](https://cse.iutoic-dhaka.edu/profile/mohsinul/education).
+---
 
-## Research and open resources
+## About
 
-| Work | Focus | Links |
-| --- | --- | --- |
-| **SPIP & BdSLIG** | Sign Parameter Informed Prompting and a Bangla Sign Language instruction generation dataset | [Code](https://github.com/tariquzzamanf/SPIP) · [Dataset](https://huggingface.co/datasets/aplycaebous/BdSLIG) · [Paper](https://openreview.net/forum?id=KkVMBkjbra) |
-| **VITD** | Informal Bangla FastText embeddings and violence-inciting text detection | [Code](https://github.com/tariquzzamanf/VITD) · [Paper](https://aclanthology.org/2023.banglalp-1.26/) |
-| **BDA** | Bangla text data augmentation | [Preprint](https://arxiv.org/abs/2412.08753) |
-| **MFMD-Scen** | Benchmarking scenario-induced bias in multilingual financial misinformation detection | [Paper](https://arxiv.org/abs/2601.05403) |
+My work spans low-resource Bangla language processing, harmful content and misinformation detection, sign language instruction generation, and benchmarking scenario-induced bias in large language models.
 
-The VITD work received the **Best Shared Task Paper Award** at BLP @ EMNLP 2023. The SPIP paper appeared at CV4A11y @ ICCV 2025. *Same Claim, Different Judgment*, the MFMD-Scen paper, is **accepted to Findings of ACL 2026**. BDA is a **preprint**.
+I am a member of the [Systems and Software Lab](https://cse.iutoic-dhaka.edu/ssl).
 
-Browse my [research](https://tariquzzamanf.github.io/research.html) and [full publication record](https://tariquzzamanf.github.io/publications.html).
+![Low-resource NLP](https://img.shields.io/badge/Low--resource_NLP-a3864e?style=flat-square)
+![LLM Evaluation and Bias](https://img.shields.io/badge/LLM_Evaluation_%26_Bias-a3864e?style=flat-square)
+![Human-Centered AI](https://img.shields.io/badge/Human--Centered_AI-a3864e?style=flat-square)
+![Sign Language and Accessibility](https://img.shields.io/badge/Sign_Language_%26_Accessibility-a3864e?style=flat-square)
 
-## Teaching and collaboration
+---
 
-I teach programming, databases, and software engineering, and supervise software projects at IUT. My [CV](https://tariquzzamanf.github.io/cv.html#teaching) lists courses and academic terms.
+<div align="center">
 
-I’m glad to hear from people working on low-resource languages, accessibility, and multilingual evaluation. Reach me at [tariquzzaman@iut-dhaka.edu](mailto:tariquzzaman@iut-dhaka.edu).
+Research, publications, teaching, and CV at **[mdtariquzzaman.github.io](https://mdtariquzzaman.github.io/)**
+
+</div>
