@@ -16,7 +16,6 @@ Member of <a href="https://cse.iutoic-dhaka.edu/ssl">Systems and Software Lab (S
 [![ORCID](https://img.shields.io/badge/ORCID-Profile-3d4f68?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-3322-8741)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1c4f8f?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-tariquzzaman/)
 [![Email](https://img.shields.io/badge/Email-tariquzzaman@iut--dhaka.edu-c99700?style=flat-square&logo=gmail&logoColor=white)](mailto:tariquzzaman@iut-dhaka.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-@mdtariquzzaman-0c2340?style=flat-square&logo=github&logoColor=white)](https://github.com/mdtariquzzaman)
 
 [![Follow](https://img.shields.io/github/followers/mdtariquzzaman?label=Follow&style=social)](https://github.com/mdtariquzzaman)
 
@@ -45,9 +44,6 @@ My work spans low-resource Bangla NLP, harmful content and misinformation detect
 ![LLM Evaluation and Bias](https://img.shields.io/badge/LLM_Evaluation_and_Bias-1c4f8f?style=flat-square)
 ![Human-Centered AI](https://img.shields.io/badge/Human--Centered_AI-3d4f68?style=flat-square)
 ![Sign Language and Accessibility](https://img.shields.io/badge/Sign_Language_and_Accessibility-c99700?style=flat-square)
-
-[![Publications](https://img.shields.io/badge/View-Publications_on_Website-1c4f8f?style=flat-square&logo=bookstack&logoColor=white)](https://mdtariquzzaman.github.io/publications.html)
-[![CV](https://img.shields.io/badge/View-CV_on_Website-0c2340?style=flat-square&logo=readthedocs&logoColor=white)](https://mdtariquzzaman.github.io/cv.html)
 
 </div>
 
