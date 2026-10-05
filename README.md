@@ -79,7 +79,7 @@ My work spans low-resource Bangla NLP, harmful content and misinformation detect
 
 <div align="center">
 
-Email **tariquzzaman@iut-dhaka.edu** · Website [mdtariquzzaman.github.io](https://mdtariquzzaman.github.io/) 
+Email **tariquzzaman@iut-dhaka.edu**
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0c2340,1c4f8f,c99700&height=130&section=footer"/>
 From [mdtariquzzaman.github.io](https://mdtariquzzaman.github.io/)
 
