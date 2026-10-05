@@ -11,7 +11,6 @@ Member of <a href="https://cse.iutoic-dhaka.edu/ssl">Systems and Software Lab (S
 <br>
 
 [![Website](https://img.shields.io/badge/Website-mdtariquzzaman.github.io-0c2340?style=flat-square&logo=githubpages&logoColor=white)](https://mdtariquzzaman.github.io/)
-[![Publications](https://img.shields.io/badge/Publications-Website-1c4f8f?style=flat-square&logo=bookstack&logoColor=white)](https://mdtariquzzaman.github.io/publications.html)
 [![CV](https://img.shields.io/badge/CV-Download_PDF-0c2340?style=flat-square&logo=readthedocs&logoColor=white)](https://mdtariquzzaman.github.io/files/cv/tariq.pdf)
 [![Scholar](https://img.shields.io/badge/Scholar-Profile-3d4f68?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=LWB_NzwAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-Profile-3d4f68?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-3322-8741)
