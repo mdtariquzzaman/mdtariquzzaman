@@ -17,8 +17,6 @@ Member of <a href="https://cse.iutoic-dhaka.edu/ssl">Systems and Software Lab (S
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1c4f8f?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-tariquzzaman/)
 [![Email](https://img.shields.io/badge/Email-tariquzzaman@iut--dhaka.edu-c99700?style=flat-square&logo=gmail&logoColor=white)](mailto:tariquzzaman@iut-dhaka.edu)
 
-[![Follow](https://img.shields.io/github/followers/mdtariquzzaman?label=Follow&style=social)](https://github.com/mdtariquzzaman)
-
 </div>
 
 ## About
