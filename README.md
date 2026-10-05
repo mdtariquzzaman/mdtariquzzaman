@@ -45,19 +45,6 @@ My work spans low-resource Bangla NLP, harmful content and misinformation detect
 
 </div>
 
-## Research Interests
-
-<div align="center">
-
-| Misinformation and Harmful Content | LLM Evaluation and Bias |
-|:---:|:---:|
-| Detecting violence-inciting text and financial misinformation across languages and platforms | Benchmarks for how model judgments shift with persona, region, and identity |
-| Low-resource and Bangla NLP | Accessibility and Sign Language |
-| Embeddings, augmentation, and modeling for informal Bangla where labelled data is scarce | Sign language instruction generation for learners of low-resource sign languages |
-
-Full papers, figures, videos, and BibTeX are on the [publications page](https://mdtariquzzaman.github.io/publications.html). Code and datasets linked from there.
-
-</div>
 
 ### Technical Skills
 
