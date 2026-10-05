@@ -31,7 +31,7 @@ I am a **Junior Lecturer in CSE at IUT** working on language, safety, and access
 
 My work spans low-resource Bangla NLP, harmful content and misinformation detection, sign language instruction generation, and benchmarking scenario-induced bias in large language models.
 
-- B.Sc. CSE, IUT '24 · M.Sc. CSE in progress
+- B.Sc. CSE, IUT · M.Sc. CSE in progress
 - Research Member, [Systems and Software Lab](https://cse.iutoic-dhaka.edu/ssl) since Jan 2023
 - Previously Machine Learning Intern @ RedDot Digital Ltd.
 - Based in Gazipur, Bangladesh
@@ -89,21 +89,6 @@ Full papers, figures, videos, and BibTeX are on the [publications page](https://
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtariquzzaman&layout=compact&bg_color=ffffff&title_color=0c2340&text_color=3d4f68&border_color=dbe1ea&langs_count=8)
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=mdtariquzzaman&bg_color=ffffff&color=3d4f68&line=1c4f8f&point=c99700&hide_border=true&area=true)
-
-</div>
-
-## Teaching
-
-<div align="center">
-
-| Term | Courses |
-|:---:|:---|
-| `Summer 2024–2025` | CSE 4271 Programming · CSE 4272 Lab · CSE 4404 Project Lab II · CSE 4600 Design Project |
-| `Winter 2024–2025` | CSE 4307 DBMS · CSE 4308 DBMS Lab · CSE 4593 SE · SWE 4304 Project Lab I |
-| `Summer 2023–2024` | CSE 4271 · CSE 4272 Lab · CSE 4404 · SWE 4800 Thesis |
-| `Winter 2023–2024` | CSE 4508 RDBMS Lab · CSE 4308 DBMS Lab |
-
-Details and supervision are listed on the [website](https://mdtariquzzaman.github.io/cv.html).
 
 </div>
 
