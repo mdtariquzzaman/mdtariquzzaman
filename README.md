@@ -60,6 +60,7 @@ My work spans low-resource Bangla NLP, harmful content and misinformation detect
 
 </div>
 
+
 ## GitHub Activity
 
 <div align="center">
@@ -68,23 +69,9 @@ My work spans low-resource Bangla NLP, harmful content and misinformation detect
 ![Streak](https://streak-stats.demolab.com?user=mdtariquzzaman&background=ffffff&border=dbe1ea&stroke=dbe1ea&ring=1c4f8f&fire=c99700&currStreakNum=0c2340&sideNums=3d4f68&currStreakLabel=3d4f68&sideLabels=3d4f68&dates=3d4f68&border_radius=10)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtariquzzaman&layout=compact&bg_color=ffffff&title_color=0c2340&text_color=3d4f68&border_color=dbe1ea&langs_count=8)
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=mdtariquzzaman&bg_color=ffffff&color=3d4f68&line=1c4f8f&point=c99700&hide_border=true&area=true)
+![Contributions](https://ghchart.rshah.org/1c4f8f/mdtariquzzaman)
 
 </div>
-
-## Personal
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=15&pause=1200&color=3d4f68&center=true&vCenter=true&width=600&lines=Anime;Movies;TV+shows;Books;Sports)](https://mdtariquzzaman.github.io/personal.html)
-
-![Anime](https://img.shields.io/badge/Anime-Attack_on_Titan_|_Monster_|_Death_Note-0c2340?style=flat-square)
-![Movies](https://img.shields.io/badge/Movies-Fight_Club_|_Arrival_|_The_Matrix-1c4f8f?style=flat-square)
-![TV](https://img.shields.io/badge/TV-Dark_|_Silicon_Valley_|_The_Mentalist-3d4f68?style=flat-square)
-![Books](https://img.shields.io/badge/Books-Meditations_|_Deep_Work_|_Seneca-3d4f68?style=flat-square)
-![Sports](https://img.shields.io/badge/Football-Bayern_Munich-c99700?style=flat-square)
-
-Favorites and ranked lists are on the [personal page](https://mdtariquzzaman.github.io/personal.html).
 
 </div>
 
@@ -94,10 +81,8 @@ Favorites and ranked lists are on the [personal page](https://mdtariquzzaman.git
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1000&color=1c4f8f&center=true&vCenter=true&width=500&lines=tariquzzaman%40iut-dhaka.edu;Open+to+research+collaborations)](mailto:tariquzzaman@iut-dhaka.edu)
 
-Email **tariquzzaman@iut-dhaka.edu** · Website [mdtariquzzaman.github.io](https://mdtariquzzaman.github.io/) · CV [PDF](https://mdtariquzzaman.github.io/files/cv/tariq.pdf)
-
+Email **tariquzzaman@iut-dhaka.edu** · Website [mdtariquzzaman.github.io](https://mdtariquzzaman.github.io/) 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0c2340,1c4f8f,c99700&height=130&section=footer"/>
-
 From [mdtariquzzaman.github.io](https://mdtariquzzaman.github.io/)
 
 </div>
