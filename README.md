@@ -1,87 +1,56 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0c2340,1c4f8f,c99700&height=200&section=header&text=Md.%20Tariquzzaman&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Lecturer%20%E2%80%A2%20CSE%20%E2%80%A2%20IUT%20%E2%80%A2%20NLP%20+%20LLMs%20+%20Accessibility&descAlignY=62&descSize=17"/>
-
 <div align="center">
 
-<a href="https://mdtariquzzaman.github.io/"><img width="760" src="https://mdtariquzzaman.github.io/assets/tagline-fade.svg" alt="Low-resource Bangla NLP · Misinformation and Harmful Content Detection · LLM Evaluation and Bias · Sign Language and Accessibility"/></a>
+# Md. Tariquzzaman
 
-<strong>Junior Lecturer</strong> · Computer Science &amp; Engineering<br>
-<a href="https://www.iutoic-dhaka.edu/">Islamic University of Technology</a> · Gazipur, Bangladesh<br>
-Member of <a href="https://cse.iutoic-dhaka.edu/ssl">Systems and Software Lab (SSL)</a>
+**Junior Lecturer · Computer Science & Engineering**<br>
+[Islamic University of Technology](https://www.iutoic-dhaka.edu/) · Dhaka, Bangladesh
+
+<sub>Natural Language Processing &nbsp;•&nbsp; LLM Safety &nbsp;•&nbsp; Cultural Bias &nbsp;•&nbsp; Accessibility</sub>
 
 <br>
 
-[![Website](https://img.shields.io/badge/Website-mdtariquzzaman.github.io-0c2340?style=flat-square&logo=githubpages&logoColor=white)](https://mdtariquzzaman.github.io/)
-[![CV](https://img.shields.io/badge/CV-Download_PDF-0c2340?style=flat-square&logo=readthedocs&logoColor=white)](https://mdtariquzzaman.github.io/files/cv/tariq.pdf)
-[![Scholar](https://img.shields.io/badge/Scholar-Profile-3d4f68?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=LWB_NzwAAAAJ)
-[![ORCID](https://img.shields.io/badge/ORCID-Profile-3d4f68?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-3322-8741)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1c4f8f?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-tariquzzaman/)
-[![Email](https://img.shields.io/badge/Email-tariquzzaman@iut--dhaka.edu-c99700?style=flat-square&logo=gmail&logoColor=white)](mailto:tariquzzaman@iut-dhaka.edu)
+[![Website](https://img.shields.io/badge/Website-1f2a44?style=for-the-badge&logo=githubpages&logoColor=white)](https://mdtariquzzaman.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=LWB_NzwAAAAJ)
+[![CV](https://img.shields.io/badge/Download_CV-c99700?style=for-the-badge&logo=readthedocs&logoColor=white)](https://mdtariquzzaman.github.io/files/cv/tariq.pdf)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tariquzzaman@iut-dhaka.edu)
 
 </div>
 
-## About
+---
 
-<img align="right" width="230" src="https://mdtariquzzaman.github.io/profile.jpg" alt="Portrait of Md. Tariquzzaman"/>
+### 👋 About
 
-I am a **Junior Lecturer in CSE at IUT** working on language, safety, and accessibility.
+I work on **natural language processing**, with a focus on how large language models behave, whom they serve, and where they fall short. I'm a Junior Lecturer in CSE at the [Islamic University of Technology](https://www.iutoic-dhaka.edu/) and a member of the [Systems and Software Lab (SSL)](https://cse.iutoic-dhaka.edu/ssl).
 
-My work spans low-resource Bangla NLP, harmful content and misinformation detection, sign language instruction generation, and benchmarking scenario-induced bias in large language models.
+### 🔬 Things I'm exploring
 
-- B.Sc. CSE, IUT · M.Sc. CSE in progress
-- Research Member, [Systems and Software Lab](https://cse.iutoic-dhaka.edu/ssl) since Jan 2023
-- Previously Machine Learning Intern @ RedDot Digital Ltd.
-- Based in Gazipur, Bangladesh
+| Area | What I'm working on |
+| :--- | :--- |
+| [![LLM Safety](https://img.shields.io/badge/LLM_Safety-7a3b3b?style=flat-square)](https://mdtariquzzaman.github.io/publications.html) | Exploring safer behavior in language models |
+| [![Cultural Bias](https://img.shields.io/badge/Cultural_Bias-a3864e?style=flat-square)](https://mdtariquzzaman.github.io/publications.html) | Evaluating how cultural context and identity shape LLM judgments |
+| [![AI Creativity](https://img.shields.io/badge/AI_Creativity_%26_Storytelling-425b46?style=flat-square)](https://mdtariquzzaman.github.io/publications.html) | Exploring how language models create and structure stories |
+| [![Accessibility](https://img.shields.io/badge/Accessibility-1c4f8f?style=flat-square)](https://mdtariquzzaman.github.io/publications.html) | Using vision-language models to support sign-language learning |
 
-> Research, publications, teaching, and CV are maintained on my website: **[mdtariquzzaman.github.io](https://mdtariquzzaman.github.io/)**
+<sub>→ Full list of papers on my [publications page](https://mdtariquzzaman.github.io/publications.html).</sub>
 
-<br clear="right"/>
+### 🛠️ Toolkit
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+
+### 🌐 Find me online
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjg5NyAxLjYzNy0xLjg0IDMuMzctMS44NCAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yNzZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+)](https://www.linkedin.com/in/md-tariquzzaman/)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/mdtariquzzaman.bsky.social)
+[![X](https://img.shields.io/badge/@mdtariquzzaman__-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mdtariquzzaman_)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-3322-8741)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/md-tariquzzaman)
+
+---
 
 <div align="center">
-
-![Low-resource NLP](https://img.shields.io/badge/Low--resource_NLP-0c2340?style=flat-square)
-![LLM Evaluation and Bias](https://img.shields.io/badge/LLM_Evaluation_and_Bias-1c4f8f?style=flat-square)
-![Human-Centered AI](https://img.shields.io/badge/Human--Centered_AI-3d4f68?style=flat-square)
-![Sign Language and Accessibility](https://img.shields.io/badge/Sign_Language_and_Accessibility-c99700?style=flat-square)
-
-</div>
-
-
-### Technical Skills
-
-<div align="center">
-
-[![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,docker,git,github,latex,vscode,linux&theme=light)](https://mdtariquzzaman.github.io/cv.html)
-
-![Python](https://img.shields.io/badge/Python-0c2340?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-3d4f68?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Transformers-1c4f8f?style=flat-square&logo=huggingface&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-3d4f68?style=flat-square&logo=scikitlearn&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-0c2340?style=flat-square&logo=latex&logoColor=white)
-
-</div>
-
-
-## GitHub Activity
-
-<div align="center">
-
-![Tariq's Stats](https://github-readme-stats.vercel.app/api?username=mdtariquzzaman&show_icons=true&bg_color=ffffff&title_color=0c2340&text_color=3d4f68&icon_color=1c4f8f&border_color=dbe1ea&include_all_commits=true&count_private=true&hide_rank=true)
-![Streak](https://streak-stats.demolab.com?user=mdtariquzzaman&background=ffffff&border=dbe1ea&stroke=dbe1ea&ring=1c4f8f&fire=c99700&currStreakNum=0c2340&sideNums=3d4f68&currStreakLabel=3d4f68&sideLabels=3d4f68&dates=3d4f68&border_radius=10)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtariquzzaman&layout=compact&bg_color=ffffff&title_color=0c2340&text_color=3d4f68&border_color=dbe1ea&langs_count=8)
-
-![Contributions](https://ghchart.rshah.org/1c4f8f/mdtariquzzaman)
-
-</div>
-
-</div>
-
-## Contact
-
-<div align="center">
-
-Email **tariquzzaman@iut-dhaka.edu**
-From [mdtariquzzaman.github.io](https://mdtariquzzaman.github.io/)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0c2340,1c4f8f,c99700&height=130&section=footer"/>
-
+<sub>Open to research collaborations and conversations · <a href="mailto:tariquzzaman@iut-dhaka.edu">tariquzzaman@iut-dhaka.edu</a></sub>
 </div>
