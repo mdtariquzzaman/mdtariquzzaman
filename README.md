@@ -5,8 +5,6 @@
 **Junior Lecturer · Computer Science & Engineering**<br>
 [Islamic University of Technology](https://www.iutoic-dhaka.edu/) · Dhaka, Bangladesh
 
-<sub>Natural Language Processing &nbsp;•&nbsp; LLM Safety &nbsp;•&nbsp; Cultural Bias &nbsp;•&nbsp; Accessibility</sub>
-
 <br>
 
 [![Website](https://img.shields.io/badge/Website-1f2a44?style=for-the-badge&logo=githubpages&logoColor=white)](https://mdtariquzzaman.github.io/)
@@ -22,7 +20,7 @@
 
 I work on **natural language processing**, with a focus on how large language models behave, whom they serve, and where they fall short. I'm a Junior Lecturer in CSE at the [Islamic University of Technology](https://www.iutoic-dhaka.edu/) and a member of the [Systems and Software Lab (SSL)](https://cse.iutoic-dhaka.edu/ssl).
 
-### 🔬 Things I'm exploring
+### 🔬 My Research Interests
 
 | Area | What I'm working on |
 | :--- | :--- |
@@ -42,7 +40,7 @@ I work on **natural language processing**, with a focus on how large language mo
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ### 🌐 Find me online
-
+[![Website](https://img.shields.io/badge/Website-1f2a44?style=for-the-badge&logo=githubpages&logoColor=white)](https://mdtariquzzaman.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjg5NyAxLjYzNy0xLjg0IDMuMzctMS44NCAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yNzZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+)](https://www.linkedin.com/in/md-tariquzzaman/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/mdtariquzzaman.bsky.social)
 [![X](https://img.shields.io/badge/@mdtariquzzaman__-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mdtariquzzaman_)
